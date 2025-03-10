@@ -1,0 +1,25 @@
+backend
+=============================
+1) npm int 		// generate package.json file
+2) express
+	1) npm install express --save
+	2) import 
+3) nodemon
+	1) npm install nodemon	// auto restart of the server
+	2) config
+4) .env	
+	1) npm install dotenv
+	2) config
+5) CORS (Cross-origin resource sharing)
+	1) npm install cors
+	2) config in server file
+6) mongoose 
+	1) npm install mongoose
+	2) config 
+----------------------------------------
+7) api test (postman) (tool) 
+8) external routing in express
+	
+
+	
+	
